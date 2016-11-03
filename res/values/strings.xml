@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">test</string>
-    <string name="hello_world">Hello world! Ver 2.0	</string>
+    <string name="hello_world">Hello world! Ver 3.0	</string>
     <string name="action_settings">Settings</string>
 
 </resources>
