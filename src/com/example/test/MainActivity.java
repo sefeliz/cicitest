@@ -31,4 +31,7 @@ public class MainActivity extends Activity {
 		}
 		return super.onOptionsItemSelected(item);
 	}
+	/* 
+	 develop 브랜치 주석 처리 테스트 ver 1.0 
+	 */
 }
